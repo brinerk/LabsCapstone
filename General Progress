@@ -1,13 +1,19 @@
 Lab 5 and 6 Converted perfectly
 
-Lab 7, 8 have theory problems that sympy cannot solve <- copy equation from mathematica when not possible, write down closest attempts as well (comment), Use curve fit for 7, provide theory solutions for 8
->Lab 7 completed
-Lab 8 taylor series(?) do it numerically? <- would be major diversion. (just copy from mathematica) (maybe use python wolfram language)
+Lab 7 completed. 
+
+8 has theory problems that sympy cannot solve: Taylor Series
+    Copy equations from mathematica when not possible, write down closest attempts as well (comment). Provide theory solutions. (maybe use python wolfram language)
+
 
 Lab 9 worked almost perfectly, but some of the sympy equations are slightly different
+
 Lab 10 I have no idea how to approach, major rework (maybe use voxels?)
+
 Lab 11 Converted successfully, but need data to match the mathematica book
-Lab 12 In progress, need some test data to figure out if code even works, write out instructions for imagej
+
+Lab 12 In progress, need some test data to figure out if code even works, write out instructions for imagej, curve_fit
+    On hold until I have some actual data, hard to finish the remaining parts without it.
 
 notes:
 When using paramaters use curve_fit
