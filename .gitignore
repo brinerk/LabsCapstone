@@ -1,2 +1,4 @@
 *.avi
 *.zip
+**/.ipynb_checkpoints
+MathematicaNotebooks/
