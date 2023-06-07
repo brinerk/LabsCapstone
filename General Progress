@@ -15,7 +15,7 @@ Lab 11 Converted successfully, but need data to match the mathematica book
 Lab 12 In progress, need some test data to figure out if code even works, write out instructions for imagej, curve_fit
     On hold until I have some actual data, hard to finish the remaining parts without it.
 
-Lab 13: Theory copied well, Entire section on animations. Not sure how best to do this. Possibly use manim(?), but this is not necessarily easy.
+Lab 13 Theory copied well, Entire section on animations. Not sure how best to do this. Possibly use manim(?), but this is not necessarily easy. Lab is finished, aside from animations.
 
 notes:
 When using paramaters use curve_fit
