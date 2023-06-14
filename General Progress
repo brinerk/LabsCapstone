@@ -17,5 +17,7 @@ Lab 12 In progress, need some test data to figure out if code even works, write 
 
 Lab 13 Theory copied well, Entire section on animations. Not sure how best to do this. Possibly use manim(?), but this is not necessarily easy. Lab is finished, aside from animations.
 
+Lab 14 done, need animations.
+
 notes:
 When using paramaters use curve_fit
