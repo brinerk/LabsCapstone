@@ -19,7 +19,7 @@ Lab 13 Theory copied well, Entire section on animations. Not sure how best to do
 
 Lab 14 done, need animations.
 
-Lab 15 needs data (actually maybe just fake some data for the theory, it's just to show you can import). problem with Curve_fit needs adjusting, in Phase2: Simple Harmoic Motion.
+Lab 15 needs data (actually maybe just fake some data for the theory, it's just to show you can import). problem with Curve_fit needs adjusting, in Phase2: Simple Harmoic Motion. Really need some data or to gen some data for the damped part, half done at the moment. Otherwise complete
 
 notes:
 When using paramaters use curve_fit
