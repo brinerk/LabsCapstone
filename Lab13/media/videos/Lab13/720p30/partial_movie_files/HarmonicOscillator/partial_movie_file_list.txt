@@ -1,2 +1,2 @@
 # This file is used internally by FFMPEG.
-file 'file:/home/chiisai/Documents/Labs Capstone/Lab13/media/videos/Lab13/720p30/partial_movie_files/HarmonicOscillator/274514146_2809708491_2386584069.mp4'
+file 'file:/home/chiisai/Documents/Education/Physics/UC Classes/LabsCapstone/Lab13/media/videos/Lab13/720p30/partial_movie_files/HarmonicOscillator/274514146_2809708491_2386584069.mp4'
