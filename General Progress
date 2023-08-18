@@ -6,7 +6,7 @@ Lab 7 completed.
 
 8 has theory problems that sympy cannot solve: Taylor Series
     Copy equations from mathematica when not possible, write down closest attempts as well (comment). Provide theory solutions. (maybe use python wolfram language)
-
+    Needs error analysis.
 
 Lab 9 worked almost perfectly, but some of the sympy equations are slightly different
 
@@ -19,7 +19,7 @@ Lab 12 In progress, need some test data to figure out if code even works, write 
 
 Lab 13 Theory copied well, Entire section on animations. Not sure how best to do this. Possibly use manim(?), but this is not necessarily easy. Lab is finished, aside from animations.
 
-Lab 14 done, need animations.
+Lab 14 done. Mystifiying, on PLC computers, > sym.simplify(Driver Oscillator(answer, solution[0], \gamma, \omega, t))  evaluates to some insane equation instead of 0 as expected.
 
 Lab 15 needs data (actually maybe just fake some data for the theory, it's just to show you can import). problem with Curve_fit needs adjusting, in Phase2: Simple Harmoic Motion. Really need some data or to gen some data for the damped part, half done at the moment. Otherwise complete
 
@@ -27,3 +27,4 @@ Lab 16 is proving to be extremely difficult, moving on to 17. It should work eve
 
 notes:
 When using paramaters use curve_fit
+Always use mathjax printing: sym.init_printing(use_latex = "mathjax")
