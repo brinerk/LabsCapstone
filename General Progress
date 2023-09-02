@@ -21,7 +21,17 @@ Lab 14 done. Mystifiying, on PLC computers, > sym.simplify(Driver Oscillator(ans
 
 Lab 15 needs data (actually maybe just fake some data for the theory, it's just to show you can import). problem with Curve_fit needs adjusting, in Phase2: Simple Harmoic Motion. Really need some data or to gen some data for the damped part, half done at the moment. Otherwise complete
 
-Lab 16 is proving to be extremely difficult, moving on to 17. It should work eventually. Will return
+Lab 16 stuck on Differential equations part. Need to make figures
+
+Lab 17, contour plots aren't working properly, might need to manually input results of integration. Figures.
+
+Lab 18, Figures and pictures, will need to collect these from plc. Potential calculations are way off for some reason.
+
+Lab 19, figures and pictures. Otherwise complete
+
+Lab 20, might need to check the std deviation cacluation, needs pictures, might need to be more explicit about how to import scipy.optimize.curve_fit. Otherwise complete
+
+Lab 21, just started, got to "Experimental Setup"
 
 notes:
 When using paramaters use curve_fit
