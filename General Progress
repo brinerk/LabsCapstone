@@ -31,7 +31,7 @@ Lab 19, figures and pictures. Otherwise complete
 
 Lab 20, might need to check the std deviation cacluation, needs pictures, might need to be more explicit about how to import scipy.optimize.curve_fit. Otherwise complete
 
-Lab 21, just started, got to "Experimental Setup"
+Lab 21, basically done, might need to include something about MacProData or whatever it was called
 
 notes:
 When using paramaters use curve_fit
